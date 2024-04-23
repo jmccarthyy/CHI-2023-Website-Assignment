@@ -4,4 +4,4 @@ This is the code for one of my University assignments where we had to create a w
 
 We had to create an API, using PHP, and frontend web pages using React and styled with Tailwind.
 
-The included README file contains more information on each endpoint and their purpose
+The README file included within the main 'CHI_Code' folder contains more information on each endpoint and their purpose
